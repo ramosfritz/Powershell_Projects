@@ -1,4 +1,5 @@
 $ServerListFilePath = "C:\Users\framos.NETWORKCOVERAGE\Documents\Powershell_Projects "
 
 
-forech($Server in $ServerList)
+
+foreach($Server in $ServerList)
